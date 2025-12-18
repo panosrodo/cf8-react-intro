@@ -7,7 +7,8 @@
 // import Card from "./components/Card.tsx";
 import Layout from "./components/Layout.tsx";
 // import FunctionalComponentWithState from "./components/FunctionalComponentWithState.tsx";
-import ClassComponentWithState from "./components/ClassComponentWithState.tsx";
+// import ClassComponentWithState from "./components/ClassComponentWithState.tsx";
+import Counter from "./components/Counter.tsx";
 
 function App() {
   return (
@@ -35,7 +36,8 @@ function App() {
         {/*description="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, veniam."*/}
         {/*/>*/}
         {/*<FunctionalComponentWithState />*/}
-        <ClassComponentWithState />
+        {/*<ClassComponentWithState />*/}
+        <Counter />
 
     </Layout>
         </>
