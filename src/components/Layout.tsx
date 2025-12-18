@@ -1,5 +1,5 @@
 import Header from "./Header.tsx";
-import Footer from "./ViteIntro/Footer.tsx";
+import Footer from "./Footer.tsx";
 
 interface LayoutProps {
     children: React.ReactNode;
